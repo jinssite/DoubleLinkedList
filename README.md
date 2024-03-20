@@ -8,19 +8,19 @@ Files included
   Makefile: Build the example and test programs
 
 To build the example program
-'''
+```
   make
-'''
+```
 or
-'''
+```
   g++ -std=c++17 Main.cpp -o DoubleLinkedList
-'''
+```
 
 To build the test
-'''
+```
   make test
-'''
+```
 or
-'''
+```
   g++ -std=c++17 -D TEST Main.cpp test_DoubleLinkedList.cpp -o testDoubleLinkedList
-'''
+```
