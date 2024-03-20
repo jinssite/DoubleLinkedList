@@ -2,7 +2,6 @@
 // Main.cpp
 //
 // The main program to show how to use and test class DoubleLinkedList
-//
 
 #include <iostream>
 #include "DoubleLinkedList.h"
