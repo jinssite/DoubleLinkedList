@@ -34,7 +34,7 @@ int main() {
     std::cout << std::endl;
 
     myList.Remove(arr[0]);
-    std::cout << "List after first item removed: ";
+    std::cout << "List after first element removed: ";
     for (auto iter = myList.begin(); iter != myList.end(); ++ iter)
         std::cout << *iter << ' ';
     std::cout << std::endl;
