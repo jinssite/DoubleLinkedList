@@ -4,7 +4,8 @@ A class to implement double linked list that allowing movement forward and backw
 Files included
 - Main.cpp: Main program to show and test the linked list
 - DoubleLinkedList.h: Implementation of double linked list
-- test_DoubleLinkedList.cpp: A series of test functions for unit tests test_DoubleLinkedList.h: Header file for test_DoubleLinkedList.cpp
+- test_DoubleLinkedList.cpp: A series of test functions for unit tests
+- test_DoubleLinkedList.h: Header file for test_DoubleLinkedList.cpp
 - Makefile: Build the example and test programs
 
 To build the example program
