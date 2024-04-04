@@ -1,4 +1,4 @@
-# DoubleLinkedList demo
+# DoubleLinkedList
 A class to implement double linked list that allowing movement forward and backward. The class allows to add and remove nodes from the list. For simplicity, the class does not allow to copy or assign the list. Each node contains a reference to the application data.
 
 Files included
